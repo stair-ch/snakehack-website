@@ -28,13 +28,11 @@ event:
   name:        "SnakeHack"
   description: "A one day programming competition in central Switzerland. <br><br>Build a snake bot and defeat your opponents"
   date:        "11 Nov 2017"
-  location:    "Rotkreuz, Switzerland"
+  location:    "Rotkreuz, Switzerland <br> Registration closed."
 
 
   hero:
     links:
-      - text: "Apply"
-        href: "#signup"
       - text: "Event on Facebook"
         href: "https://www.facebook.com/events/156930364897350"
 
